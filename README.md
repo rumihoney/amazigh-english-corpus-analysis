@@ -6,7 +6,7 @@ An introductory data analysis project using Python and pandas. The goal is to pr
 
 **Amazigh-English Dictionary: 160k+ Sentences for NLP**
 
-Largest Berber-English parallel corpus for NLP (from Tatoeba & ManyThings.org)
+Largest Amazigh-English parallel corpus for NLP (from Tatoeba & ManyThings.org)
 
 - **Creator:** Jasmine Mohamed Fahmy
 - **Source:** https://www.kaggle.com/datasets/jasminemohamed2545/berber-english-160k-parallel-sentences-for-nlp
