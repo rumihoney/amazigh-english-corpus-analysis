@@ -6,7 +6,7 @@ Introductory data analysis project using Python and pandas. The goal is to pract
 
 - Currently cleaning and preprocessing
 - Removed duplicate translation pairs, unnecessary whitespace, and punctuation
-- Next: Analyze ambiguous Unicode characters and capitalized words
+- Next: Analyze the translation variations and the ambiguous Unicode characters and capitalized words
 
 ## Dataset
 
